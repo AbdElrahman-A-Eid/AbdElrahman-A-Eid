@@ -1,4 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Abdelrahman 👋
+
+### Data Scientist | AI Enthusiast | Instructor
+
+---
+
+### About Me
+
+I'm a passionate Data Scientist with a strong foundation in AI and machine learning. Currently, I am working at _VOIS and sharing my knowledge as an External Instructor at the Information Technology Institute (ITI) and a Session Lead at Udacity. My journey began at Vodafone Egypt, where I contributed to an end-to-end NLP project within the Big Data Academy Program.
+
+---
+
+### 🛠️ Skills
+
+- **Programming Languages:** Python, SQL
+- **Libraries/Frameworks:** NumPy, Pandas, SciKit-Learn, Transformers, PyTorch, PySpark, TensorFlow Keras
+- **Tools & Technologies:** Google Cloud Platform (GCP), Docker
+
+---
+
+### 🎓 Education
+
+- **Postgraduate Diploma of AI-Pro:** Information Technology Institute (ITI), Egypt & EPITA School of Engineering and Computer Science, France
+- **B.Sc. in Engineering:** Suez University, Egypt
+
+---
+
+### 📫 Get in Touch
+
+- **LinkedIn:** [Abdelrahman-Eid](https://www.linkedin.com/in/abdelrahman-eid/)
+- **Email:** [abdelrahman.eid97@gmail.com](mailto:abdelrahman.eid97@gmail.com)
+
+---
 
 <!--
 **AbdElrahman-A-Eid/AbdElrahman-A-Eid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
